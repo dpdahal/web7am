@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="726d7efd-f81a-4ef7-8a6a-0b54c4d708ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/studnets.html" beforeDir="false" afterPath="$PROJECT_DIR$/studnets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mywebsite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -32,6 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -53,7 +56,9 @@
       <workItem from="1607995503534" duration="4928000" />
       <workItem from="1608081303965" duration="9117000" />
       <workItem from="1608168029096" duration="5512000" />
-      <workItem from="1608254365909" duration="3976000" />
+      <workItem from="1608254365909" duration="4128000" />
+      <workItem from="1608427385517" duration="49000" />
+      <workItem from="1608427436676" duration="2573000" />
     </task>
     <servers />
   </component>
@@ -70,5 +75,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
