@@ -1,0 +1,109 @@
+/*================Selector=========
+    1. * Universal selector
+    2. div all <div>
+    3. html tags: all exm: <p>
+    4. .class selector
+    5. class .class all class with class
+    6. # id selector
+
+ */
+
+
+/* * {
+    background: gray;
+}
+
+
+p {
+    color: purple;
+}
+
+ */
+
+/*div {*/
+/*    background: lightblue;*/
+/*}*/
+/*#container{*/
+
+/*}*/
+/*.demo{*/
+/*    */
+/*}*/
+
+/*.demo .box {*/
+/*    background: red;*/
+/*}*/
+
+/*div p {*/
+/*    color: red;*/
+/*}*/
+
+/*!* Pseudo-class *!*/
+/*p:hover {*/
+/*    background: red;*/
+/*}*/
+
+/*p:last-child {*/
+/*     background: red;*/
+/* }*/
+/*
+    div p{
+
+    }
+*/
+
+/*div + p {*/
+/*    background: gray;*/
+/*}*/
+
+/*div ~ p {*/
+/*    background: gray;*/
+/*}*/
+
+/*p:first-child {*/
+/*    background: purple;*/
+/*}*/
+
+/*p:last-child {*/
+/*    background: red;*/
+/*}*/
+
+/*p:nth-child(odd) {*/
+/*    background: red;*/
+/*}*/
+
+/*p:nth-child(even) {*/
+/*    background: red;*/
+/*}*/
+
+/*p:nth-child(3n+1) {*/
+/*    background: red;*/
+/*}*/
+
+/*p:nth-child(n+3) {*/
+/*    background: green;*/
+/*}*/
+
+/*input:not([disabled]):not(.abc) {*/
+/*    background: red;*/
+/*}*/
+
+/*input[type=text] {*/
+/*    background: red;*/
+/*}*/
+
+
+/*[class*='abc-'] {*/
+/*    background: red;*/
+/*}*/
+
+
+/*[class~='color-red'] {*/
+/*    background: red;*/
+/*}*/
+
+/*.a .b .c .d {*/
+/*    background: red;*/
+/*}*/
+
+
