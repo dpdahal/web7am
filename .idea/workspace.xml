@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="726d7efd-f81a-4ef7-8a6a-0b54c4d708ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS-Course/selectors/css/custom..css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/selectors/selector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/background/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/background/img/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/background/img/abc.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/background/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/marginpadding/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/marginpadding/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS-Course/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS-Course/introduction/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS-Course/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS-Course/introduction/introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Course/selectors/css/custom..css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS-Course/selectors/css/custom..css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS-Course/background/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -49,6 +52,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dp48d\Desktop\web7am\CSS-Course\background\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dp48d\Desktop\web7am\CSS-Course\introduction" />
       <recent name="C:\Users\dp48d\Desktop\web7am\html" />
@@ -70,7 +76,8 @@
       <workItem from="1608427385517" duration="49000" />
       <workItem from="1608427436676" duration="2902000" />
       <workItem from="1608514692453" duration="3675000" />
-      <workItem from="1608600471137" duration="4295000" />
+      <workItem from="1608600471137" duration="4462000" />
+      <workItem from="1608772601775" duration="4374000" />
     </task>
     <servers />
   </component>
