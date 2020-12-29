@@ -1,0 +1,64 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    /*background: red;*/
+    /*justify-content: space-between;*/
+}
+
+.container > * {
+    padding: 0 1em;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header, footer {
+    background: #01c48b;
+    height: 60px;
+}
+
+main {
+    display: flex;
+}
+
+main aside {
+    margin-right: 40px;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.header-left {
+    background: #026aef;
+    min-width: 300px;
+}
+
+.header-main-content {
+    background: gray;
+    min-width: 300px;
+}
+
+.header-right {
+    background: #e30000;
+    min-width: 300px;
+}
+
+/*@media screen and (max-width: 800px) {*/
+/*    main {*/
+/*        display: block;*/
+/*    }*/
+
+/*}*/
