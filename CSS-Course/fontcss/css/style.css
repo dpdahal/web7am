@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 90%;
+    margin: auto;
+    background: gray;
+}
+
+p {
+    font-family: 'Redressed', cursive;
+    /*margin: 0;*/
+    /*font-family: sans-serif;*/
+    /*font-size: 20px;*/
+    /*color: #ffffff;*/
+    /*letter-spacing: 3px;*/
+    /*word-spacing: 2px;*/
+    /*line-height: 39px;*/
+    /*text-indent: 86px;*/
+    /*!* writing-mode: horizontal-tb; *!*/
+    /*text-transform: uppercase;*/
+    /*text-decoration: overline;*/
+}
+

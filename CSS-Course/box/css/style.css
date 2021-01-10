@@ -1,0 +1,13 @@
+.box {
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    /*background: red;*/
+    /*border: 1px solid green;*/
+    border: 2px dotted red;
+}
+
+/*
+top, right,bottom,left
+
+*/

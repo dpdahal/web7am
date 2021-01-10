@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 960px;
+    height: 900px;
+    background: gray;
+    margin: auto;
+}
+.left-box{
+    width: 50%;
+    background: purple;
+    height: 400px;
+    float: left;
+}
+.right-box{
+    width: 50%;
+    height: 200px;
+    background: #01c48b;
+   float: right;
+}
+
+.box1{
+    width: 25%;
+    background: #e30000;
+    height: 200px;
+    float: left;
+}
+
+.box2{
+    width: 25%;
+    background: #8608dd;
+    height: 200px;
+    float: left;
+}
+.box3{
+    width: 50%;
+    height: 400px;
+    float: right;
+    background: green;
+}
+
+.box4{
+    width: 50%;
+    background: #0029a7;
+    height: 200px;
+    float: left;
+}
+
+.footer{
+    width: 25%;
+    height: 200px;
+    background: #ffc900;
+    float: left;
+}
