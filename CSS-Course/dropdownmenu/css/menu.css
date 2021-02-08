@@ -1,0 +1,43 @@
+.menu {
+    width: 100%;
+    height: 40px;
+    background: #dd0101;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+ul li {
+    float: left;
+    min-width: 100px;
+    position: relative;
+    line-height: 40px;
+}
+
+ul li ul {
+    /*display: none;*/
+    position: absolute;
+}
+
+/*ul li:hover {*/
+/*    background: #0029a7;*/
+/*}*/
+
+ul li:hover > ul {
+    display: block;
+
+}
+
+ul li ul li {
+    background: #ffc900;
+}
+
+ul li ul li ul li{
+    background: #0751b1;
+
+
+}
+

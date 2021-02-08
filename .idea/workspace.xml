@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="726d7efd-f81a-4ef7-8a6a-0b54c4d708ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task4/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task4/logo/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/list/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/list/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/mediaquery/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/mediaquery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/dropdownmenu/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/dropdownmenu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task5/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task6/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task6/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/css/type.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/gallery-description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/images/pexels-asya-cusima-3220237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/images/pexels-boris-pavlikovsky-5499131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/images/pexels-katie-e-3662773.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/js/custom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS-Course/hometask/task4/logo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javascriptcollege" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -54,6 +62,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dp48d\Desktop\web7am\CSS-Course\textoverflow\images" />
       <recent name="C:\Users\dp48d\Desktop\web7am\CSS-Course\hometask\task4\logo" />
       <recent name="C:\Users\dp48d\Desktop\web7am\CSS-Course\background\img" />
     </key>
@@ -100,6 +109,16 @@
       <workItem from="1610456892458" duration="673000" />
       <workItem from="1610509145431" duration="4102000" />
       <workItem from="1610941120396" duration="3072000" />
+      <workItem from="1611027353381" duration="393000" />
+      <workItem from="1611062099952" duration="1952000" />
+      <workItem from="1611302455460" duration="86000" />
+      <workItem from="1611494419530" duration="1370000" />
+      <workItem from="1611559165037" duration="12000" />
+      <workItem from="1611580777000" duration="2386000" />
+      <workItem from="1611645530561" duration="140000" />
+      <workItem from="1612703814862" duration="3274000" />
+      <workItem from="1612744913604" duration="2792000" />
+      <workItem from="1612756090692" duration="12000" />
     </task>
     <servers />
   </component>
