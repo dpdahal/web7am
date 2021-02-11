@@ -2,22 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="726d7efd-f81a-4ef7-8a6a-0b54c4d708ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS-Course/dropdownmenu/css/menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/dropdownmenu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task5/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task6/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/hometask/task6/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/css/type.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/gallery-description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/images/pexels-asya-cusima-3220237.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/images/pexels-boris-pavlikovsky-5499131.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/images/pexels-katie-e-3662773.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Course/textoverflow/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/imageslide/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/imageslide/images/abc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/imageslide/images/abc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/imageslide/images/def.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/imageslide/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/imageslide/js/custom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/js/custom.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -49,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javascriptcollege" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javascript/imageslide/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,6 +57,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dp48d\Desktop\web7am\javascript\imageslide\images" />
       <recent name="C:\Users\dp48d\Desktop\web7am\CSS-Course\textoverflow\images" />
       <recent name="C:\Users\dp48d\Desktop\web7am\CSS-Course\hometask\task4\logo" />
       <recent name="C:\Users\dp48d\Desktop\web7am\CSS-Course\background\img" />
@@ -119,6 +115,9 @@
       <workItem from="1612703814862" duration="3274000" />
       <workItem from="1612744913604" duration="2792000" />
       <workItem from="1612756090692" duration="12000" />
+      <workItem from="1612831530594" duration="2652000" />
+      <workItem from="1612917958114" duration="1748000" />
+      <workItem from="1613004156442" duration="2294000" />
     </task>
     <servers />
   </component>
